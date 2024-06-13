@@ -4,8 +4,11 @@
 3. Tools & Dataset
 4. Project
 
+
 **Project Description**<br>
+
 Project involved analyzing orders at the Superstore. Superstore CEO of the Superstore needed help to understand what is causing customers to return orders and how to reduce the volume of returned orders.
+
 
 **Project Execution Steps**
 1. Data Processing: explore data, backup data, filter data, calculated fields, data visualization mockups
@@ -13,8 +16,12 @@ Project involved analyzing orders at the Superstore. Superstore CEO of the Super
 3. Visualization: scatterplot, bar chart, map chart, composite chart
 4. Recommendation
 
-**Tools & Dataset**
+
+**Tools & Dataset**<br>
+
 Tableau & Superstore Dataset
 
-**Project** 
+
+**Project**<br>
+
 [Click Here](https://public.tableau.com/app/profile/mudassar.chaudhry/viz/TableauProject2_17141231854110/ReturnsAnalysisStory)
