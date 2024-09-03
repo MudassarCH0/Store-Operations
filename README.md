@@ -22,8 +22,26 @@ Superstore has been experiencing high returns. Project involved analyzing orders
   * returns
     * Returned
     * Order ID
-  * 	
- 
+  * orders
+    * Row ID
+    * Order ID
+    * Order Date
+    * Ship Date
+    * Ship Mode
+    * Customer ID
+    * Customer Name
+    * Segment
+    * Country/Region
+    * City
+    * State
+    * Postal Code
+    * Region
+    * Product ID
+    * Category
+    * Sub-Category
+    * Product Name
+    * Sales	Quantity
+    * Discount	Profit
  
 
 \
