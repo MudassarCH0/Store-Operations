@@ -5,7 +5,7 @@
 * Tools & Dataset
 * Execution
 * Results
-* Recommenation
+* Recommendation
 * Link  
 
 \
