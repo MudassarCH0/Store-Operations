@@ -2,9 +2,9 @@
 ***Table of Contents***<br>
 
 * Description
-* Tools & Dataset
+* Tools & Data
 * Execution
-* Results
+* Result
 * Recommendation
 * Link  
 
@@ -15,9 +15,10 @@ Superstore has been experiencing high returns. Project involved analyzing orders
    
 
 \
-***Tools & Dataset***<br>
+***Tools & Data***<br>
 
-* Tools: Tableau
+* Tools
+  * Tableau
 * Data
   * returns
     * Returned
@@ -50,23 +51,25 @@ Superstore has been experiencing high returns. Project involved analyzing orders
 * Data Processing: explore data, backup data, filter data, clean data
 * Key Performance Indicators (KPIs): total sales, total returns, return rate per product, return rate per region, return rate per quarter, return rate per customer, quantity
   per return, discount verse returns
-* Visualtions: scatter plot, 
-* Process: created joins and calculated fields, created mockups,  
+* Visualtions: scatter plot, bar chart, map, composite chart
+* Process: created joins and calculated fields, created 3 differnet types of mockups, plotted correlation between total sales and total returns, plotted returns per region,
+  plotted return rate across different measures (date/geography/product category) to determine best measure for composite chart  
 
 \
-***Results***<br>
+***Result***<br>
 
-* Most apps ratings were between 4 to 5 ratings with few outliners
-* Average review weigh was 5.48 
-* Apps reviews and ratings showed correlation
-* Weekly review count stayed around 25K
+* Most returned items include Office Supplies (appliances, storage, binders), Furniture (chairs,tables), Technology (accessories, machines, phones)
+* Returns could be result of poor quality or defective products because profits were low compared to returns
+* Some states showed good count of sold products but no returns meaning these state did not receive poor quality or defective products<br><br>
+
+![image](https://github.com/user-attachments/assets/325f4d1d-76e0-46df-a269-7ab0ab3e2676)
 
 
 \
 ***Recomnendation***<br>
-* Apps with review count around 5K have greater success on the platform
-* Apps with rating count of 4 or more will be successful on the platform
-* To measure success new apps should have built-in weekly review and rating count mechanism <br><br> 
+* Superstore should collect addtional data fields related to cause of returns
+* Focus should be put on products that caused low profits
+* Products causing more removed from inventory or replaced with another vendor <br><br> 
 
 > [!Note]
 > [Project Link](https://public.tableau.com/app/profile/mudassar.chaudhry/viz/TableauProject2_17141231854110/ReturnsAnalysisStory)
