@@ -1,27 +1,53 @@
-**Table of Contents**
-1. Project Description
-2. Project Execution Steps 
-3. Tools & Dataset
-4. Project
+
+***Table of Contents***<br>
+
+* Description
+* Tools & Dataset
+* Execution
+* Results
+* Recommenation
+* Link  
+
+\
+***Description***<br>
+
+Superstore has been experiencing high returns. Project involved analyzing orders at the Superstore. The CEO of the Superstore needed help to understand what is causing customers to return orders and how to reduce the volume of returned orders.
+   
+
+\
+***Tools & Dataset***<br>
+
+* Tools: Tableau
+* Data
+  * returns
+    * Returned
+    * Order ID
+  * 	
+ 
+ 
+
+\
+***Execution***<br>
+
+* Data Processing: explore data, backup data, filter data, calculated fields, visualization mockups
+* Key Performance Indicators (KPIs): correlation, total sales, total returns, return rate per product, return rate per region, return rate per quarter, return rate per customer, quantity
+  per return, discount verse returns
+* Process: created joins and calculated fields, 
+
+\
+***Results***<br>
+
+* Most apps ratings were between 4 to 5 ratings with few outliners
+* Average review weigh was 5.48 
+* Apps reviews and ratings showed correlation
+* Weekly review count stayed around 25K
 
 
-**Project Description**<br>
+\
+***Recomnendation***<br>
+* Apps with review count around 5K have greater success on the platform
+* Apps with rating count of 4 or more will be successful on the platform
+* To measure success new apps should have built-in weekly review and rating count mechanism <br><br> 
 
-Project involved analyzing orders at the Superstore. Superstore CEO of the Superstore needed help to understand what is causing customers to return orders and how to reduce the volume of returned orders.
-
-
-**Project Execution Steps**
-1. Data Processing: explore data, backup data, filter data, calculated fields, data visualization mockups
-2. Key Performance Indicators (KPIs): correlation, total sales, total returns, return rate per product, return rate per region, return rate per quarter, return rate per customer, quantity per return, discount verse returns
-3. Visualization: scatterplot, bar chart, map chart, composite chart
-4. Recommendation
-
-
-**Tools & Dataset**<br>
-
-Tableau & Superstore Dataset
-
-
-**Project**<br>
-
-[Click Here](https://public.tableau.com/app/profile/mudassar.chaudhry/viz/TableauProject2_17141231854110/ReturnsAnalysisStory)
+> [!Note]
+> [Project Link](https://public.tableau.com/app/profile/mudassar.chaudhry/viz/TableauProject2_17141231854110/ReturnsAnalysisStory)
