@@ -47,10 +47,11 @@ Superstore has been experiencing high returns. Project involved analyzing orders
 \
 ***Execution***<br>
 
-* Data Processing: explore data, backup data, filter data, calculated fields, visualization mockups
-* Key Performance Indicators (KPIs): correlation, total sales, total returns, return rate per product, return rate per region, return rate per quarter, return rate per customer, quantity
+* Data Processing: explore data, backup data, filter data, clean data
+* Key Performance Indicators (KPIs): total sales, total returns, return rate per product, return rate per region, return rate per quarter, return rate per customer, quantity
   per return, discount verse returns
-* Process: created joins and calculated fields, 
+* Visualtions: scatter plot, 
+* Process: created joins and calculated fields, created mockups,  
 
 \
 ***Results***<br>
